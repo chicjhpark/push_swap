@@ -1,3 +1,4 @@
+Push_swap
 - 규칙
 <img width="862" alt="스크린샷 2022-12-28 오후 6 26 09" src="https://user-images.githubusercontent.com/69841779/209789938-f03a0c57-f099-4940-beab-69c74bc92706.png">
 
