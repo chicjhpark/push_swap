@@ -15,7 +15,7 @@ NAME		= push_swap
 NAME_B		= checker
 
 CC			= gcc
-CFLAGS		= -g3 -fsanitize=address -Wall -Wextra -Werror
+CFLAGS		= -Wall -Wextra -Werror
 
 INCS		= -Ilibft -I.
 
