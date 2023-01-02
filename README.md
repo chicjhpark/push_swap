@@ -2,6 +2,9 @@
 ### Introduction
 - 스택에 있는 데이터를 한정된 명령어를 이용하여 최대한 적은 횟수 내에 정렬하는 프로그램입니다.
 ### Rules
+|   |   |
+| - | - |
+| **Allowed functions** | write, read, malloc, free, exit |
 - 게임은 두 개의 스택 a와 b를 가지고 진행됩니다.
 - 스택 a는 랜덤한 개수의 양의 정수들과 음의정수들을 포함하며, 값은 중복되지 않습니다.
 - 스택 b는 비어있습니다.
@@ -129,3 +132,4 @@ $>ARG="4 67 3 87 23"; ./push_swap $ARG | ./checker_OS $ARG
 OK
 $>
 ```
+### Development document
