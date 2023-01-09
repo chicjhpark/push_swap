@@ -34,6 +34,7 @@ $> make bonus
 	rrr : rra와 rrb를 동시에 수행합니다.
 ### Checker program
 ![checker_example2](https://user-images.githubusercontent.com/69841779/211349374-f7dae3a8-1c4a-421a-bd9a-c9f93fdd83a6.gif)
-> ctrl-D 를 눌러서 입력을 마칠 수 있습니다.
+> ctrl-D 키를 눌러 입력을 마칠 수 있습니다.
+
 ![checker_directions](https://user-images.githubusercontent.com/69841779/211348830-76d5bb33-ea4e-41d2-aea0-3ad9ca283c07.gif)
 ### Development document
