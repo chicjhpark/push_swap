@@ -1,13 +1,13 @@
 #Push_swap
 ### Introduction
 - 스택에 있는 데이터를 한정된 명령어를 이용하여 최대한 적은 횟수 내에 정렬하는 프로그램입니다.
-### Directions
 ```
 $> make
 $> make bonus
 ```
 ![push_swap_example](https://user-images.githubusercontent.com/69841779/211346679-b9c99729-1195-4250-8815-c831906d6f04.gif)
-### Checker program
+---
+### Checker
 ![checker_example2](https://user-images.githubusercontent.com/69841779/211349374-f7dae3a8-1c4a-421a-bd9a-c9f93fdd83a6.gif)
 > ctrl-D 키를 눌러 입력을 마칠 수 있습니다.
 
