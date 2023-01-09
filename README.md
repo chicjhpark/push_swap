@@ -7,6 +7,11 @@ $> make
 $> make bonus
 ```
 ![push_swap_example](https://user-images.githubusercontent.com/69841779/211346679-b9c99729-1195-4250-8815-c831906d6f04.gif)
+### Checker program
+![checker_example2](https://user-images.githubusercontent.com/69841779/211349374-f7dae3a8-1c4a-421a-bd9a-c9f93fdd83a6.gif)
+> ctrl-D 키를 눌러 입력을 마칠 수 있습니다.
+
+![checker_directions](https://user-images.githubusercontent.com/69841779/211348830-76d5bb33-ea4e-41d2-aea0-3ad9ca283c07.gif)
 ### Rules
 - 프로그램의 목표는 스택 a에 정수들을 오름차순으로 정렬하는 것입니다.
 - 목표를 달성하기 위해서 다음과 같은 명령어를 사용합니다.
@@ -32,9 +37,5 @@ $> make bonus
 	rrb : reverse rotate b - 스택 b의 원소를 한 칸씩 아래로 옮깁니다. 스택의 마지막 원소는 맨 첫 번째 원소가 됩니다.
 
 	rrr : rra와 rrb를 동시에 수행합니다.
-### Checker program
-![checker_example2](https://user-images.githubusercontent.com/69841779/211349374-f7dae3a8-1c4a-421a-bd9a-c9f93fdd83a6.gif)
-> ctrl-D 키를 눌러 입력을 마칠 수 있습니다.
 
-![checker_directions](https://user-images.githubusercontent.com/69841779/211348830-76d5bb33-ea4e-41d2-aea0-3ad9ca283c07.gif)
 ### Development document
